@@ -1,0 +1,2 @@
+2021-07-02 16:52:00,414 logger.views ERROR    Test!!
+2021-07-02 16:55:34,092 asyncio      DEBUG    Using selector: KqueueSelector
